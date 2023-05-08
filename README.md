@@ -1,4 +1,4 @@
-# PomoPal v0.3
+# PomoPal v0.3 [WIP]
 
 ![image](https://user-images.githubusercontent.com/102654162/236759845-a8cc7737-81c7-4556-84f8-c23f4fa634e3.png)
 ![image](https://user-images.githubusercontent.com/102654162/236759973-d6285755-d8bf-4432-ab39-505045e37f4d.png)
