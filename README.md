@@ -8,4 +8,4 @@ PomoPal is a Pomodoro timer that helps you manage your time and focus on your ta
 
 PomoPal is currently work in progress.
 
-To run this program, run main.py located in src.
+To run this program, run "main.py" located in src and make sure all the libraries in "requirements.txt" are installed in your virtual environment.
